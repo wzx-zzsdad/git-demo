@@ -1,4 +1,7 @@
 sbmugod
+<<<<<<< HEAD
 asdlj modeified    master
-version-hotfix
 
+=======
+version-hotfix   hot-fix
+>>>>>>> hot-fix
